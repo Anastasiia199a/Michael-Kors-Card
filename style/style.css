@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    margin: 18px;
+    
+}
+
+.inner {
+    width: 1000px;
+margin: 0 auto;
+}
+
+.inner .card {
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    background: #E0E0E0;
+    padding-bottom: 18px;
+    margin: 30px;
+    padding: 10px 0;
+}
+
+.inner .card img {
+    width: 130px;
+    height: 130px;
+    margin-bottom: 10px;
+
+}
+.inner .card .title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.inner .card .text {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 10px;
+    border: 12px;
+}
